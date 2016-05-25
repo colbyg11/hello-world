@@ -1,2 +1,5 @@
 # hello-world
-just for practice
+This is just for practice
+
+
+I dont know how to work this so i'm going through a tutorial
